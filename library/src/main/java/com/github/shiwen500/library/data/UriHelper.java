@@ -18,7 +18,7 @@ public class UriHelper {
      * get real file path with an content uri
      * @param context The context
      * @param uri the Uri to query a file
-     * @return the real file absolute path 
+     * @return the real file absolute path
      */
     public static String getPath(final Context context, final Uri uri) {
 
